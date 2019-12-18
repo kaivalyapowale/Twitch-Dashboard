@@ -1,4 +1,6 @@
 # Twitch-Dashboard
+https://kaivalyapowale.com/2019/12/18/twitch-dashboard/
+
 Using Twitch APIs to build a live dashboard for Top Games and Top Streams
 See the (static) Interactive Dashboard on Tableau Public: https://public.tableau.com/profile/kaivalya.powale#!/vizhome/TwitchDashboard/TwitchDashboard
 
@@ -10,10 +12,11 @@ See the (static) Interactive Dashboard on Tableau Public: https://public.tableau
 + Bulding a live Tableau Desktop dashboard with the data
 + Using a data extract to display the dashboard sample on Tableau Public
 
-### Completely academic and learning based project
-by Vardayini Sharma, Maddhujeet Chandra, Kaivalya Powale
+### Personal project by
+Vardayini Sharma, Maddhujeet Chandra, Kaivalya Powale
 
 ### Tools used
 Python, Jupyter Notebook, Git, Twitch Web API, AWS EC2, AWS RDS, Tableau (Desktop, Public, & Prep)
 
-## Documentation
+## Documentation 
+### Tutorial (https://kaivalyapowale.com/2019/12/18/twitch-dashboard/#Tutorial)
